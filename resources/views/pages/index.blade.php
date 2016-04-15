@@ -2,7 +2,7 @@
 
 @section('contenu')
     <header id="myCarousel" class="carousel slide">
-        @include('../includes.header')
+        @include('../includes.carousel')
     </header>
     <div class="container">
         <div class="row">

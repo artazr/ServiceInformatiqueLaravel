@@ -6,14 +6,7 @@
 
 <title>Service Informatique</title>
 
-<!-- Bootstrap Core CSS -->
-
-<link rel="stylesheet" href="../resources/assets/css/bootstrap.css">
-<link rel="stylesheet" href="../resources/assets/css/bootstrap.min.css">
-
-<!-- Custom CSS -->
-<!-- <link href="css/decor.css" rel="stylesheet"> -->
-<link rel="stylesheet" href="../resources/assets/sass/decor.css">
+<link href="css/app.css" rel="stylesheet" type="text/css">
 
 <!-- Custom Fonts -->
 <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">

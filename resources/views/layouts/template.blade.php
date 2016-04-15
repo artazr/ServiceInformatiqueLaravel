@@ -16,13 +16,7 @@
             </footer>
         </div>
 
-    
-    <script src="../resources/assets/js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="../resources/assets/js/bootstrap.min.js"></script>
-
-        <!-- Script to Activate the Carousel -->
+        <script src="js/app.js"></script>
         <script>
             $('.carousel').carousel({
                 interval: 4000
